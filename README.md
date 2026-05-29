@@ -23,16 +23,16 @@ I'm on a journey to expand my skills and knowledge in software development. Some
 
 Here are some of the projects I've been working on:
 
-1. **AI-Powered Online Shop** - A full-stack .
+1. **AI-Powered Online Shop** - A full-stack e-commerce application with an AI-powered voice assistant for product search, secure Stripe payments, Auth0 authentication, and a React/Express/PostgreSQL stack.
    - [GitHub Repo](https://github.com/Momowaz/voice-based-ai-assistant-store#stripe-for-secure-payments)
 
-2. **Interview Scheduler** - Interview Scheduler is a single-page application (SPA) built using JavaScript, React, and Axios that allows users to book technical interviews between students and mentors.
+2. **Interview Scheduler** - A React single-page application that allows users to book, edit, and cancel technical interviews, with real-time updates powered by an API and WebSocket server.
    - [GitHub Repo](https://github.com/Situ2000/scheduler)
 
-3. **TinyApp** - TinyApp is a full-stack web application built with Node and Express that allows users to shorten long URLs (à la bit.ly).
+3. **TinyApp** - A full-stack URL shortener built with Node.js, Express, EJS, bcrypt, and cookie-session, allowing users to create, manage, and shorten long URLs.
    - [GitHub Repo](https://github.com/Situ2000/tinyapp)
 
-4. **Tweeter** - Tweeter is a Single Page App (SPA) built with HTML, CSS, JS, jQuery, and AJAX.
+4. **Tweeter** - A single-page Twitter-style application built with HTML, CSS, JavaScript, jQuery, AJAX, Node.js, and Express, allowing users to compose and view tweets in a dynamic interface.
    - [Github Repo](https://github.com/Situ2000/tweeter)
 
 ## 🤝 Let's Connect
